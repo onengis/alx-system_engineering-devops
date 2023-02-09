@@ -1,0 +1,1 @@
+my shell permkission script
